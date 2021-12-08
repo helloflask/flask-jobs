@@ -1,10 +1,17 @@
 # Flask Jobs
 
-这是一个用来分享 Flask 相关工作机会的平台，所有工作机会见 [issue 区](https://github.com/greyli/flask-jobs/issues)。
+This is a platform for sharing Flask-related job opportunities. All positions can be found in the [issue list](https://github.com/greyli/flask-jobs/issues).
 
-除了发布工作机会，也欢迎分享面经或是找工作的经历。
+- When creating an issue, please put "Company - Job Title - City" in the title and give a link to the full job details (if have) in the issue.
+- It would be helpful if you could post the requirements section of the job description in the issue.
+- We recommend posting jobs that are more related to the Flask tech stack, but Python related jobs are also welcome.
+- If you get an offer here, feel free to come back and share your interview experience.
 
-- 创建 issue 时请在标题注明「公司-职位-城市」，并在 issue 中给出职位详情链接。
+<hr>
+
+这是一个用来分享 Flask 相关工作机会的平台，所有工作机会见 [issue 列表](https://github.com/greyli/flask-jobs/issues)。
+
+- 创建 issue 时请在标题注明「公司-职位-城市」，并在 issue 中给出职位详情链接（如果有的话）。
 - 如果能把职位描述里的 requirements 部分贴到 issue 内，那会非常有帮助。
 - 建议发布和 Flask 技术栈关联比较大的职位，不过 Python 相关的职位也欢迎。
 - 如果拿到了这里的某个 offer，欢迎回来分享面试经验/经历。
