@@ -15,3 +15,7 @@ This is a platform for sharing Flask-related job opportunities. All positions ca
 - 如果能把职位描述里的 requirements 部分贴到 issue 内，那会非常有帮助。
 - 建议发布和 Flask 技术栈关联比较大的职位，不过 Python 相关的职位也欢迎。
 - 如果拿到了这里的某个 offer，欢迎回来分享面试经验/经历。
+
+P.S. 这个[职位采集站点](https://cn.thakey.com/job/search/allcity/flask)收录的职位关联度很高，可以定期关注。
+
+P.P.S 某些职位虽然在要求中提到 Flask，不过或许实际工作是使用其他 Python Web 框架（不用担心，熟悉 Flask 以后其他 Python Web 框架也会很容易上手）。
